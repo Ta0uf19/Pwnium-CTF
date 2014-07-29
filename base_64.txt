@@ -1,5 +1,0 @@
-base64 -d break_me.txt > break_me.bz2 && bunzip2 break_me.bz2 
-abuss | base64 decode, then bzip inflate
-
-
-QlpoOTFBWSZTWTxSmOAAAAsJAF/gOwAgADEAAAiZMNT0JbKzhCQcyQtA2gNbvXgSvxdyRThQkDxSmOA=
